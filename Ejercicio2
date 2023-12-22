@@ -1,0 +1,19 @@
+Budimir = {}
+
+while True:
+    Tiempo = input("Que hora es? ")
+    KM = int(input("Cuantos kilometros llevas? "))
+    FinCarrera = input("Has acabado ya? ")
+    Budimir[Tiempo]= KM
+    FinCarrera == "no"
+    
+    if FinCarrera == "si":
+        print ("El corredor a las " + str(Tiempo) + "estaba en el kilometro " + str(KM))
+
+        break
+
+
+
+
+    
+    
